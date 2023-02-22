@@ -1,10 +1,8 @@
-# Craton BlockChain
-
-
+# Initial Craton blockchain write in Go
 
 ## Introduction
 
-This blockchain follows the classical Satoshi Paper with several adaptations private private way.
+This blockchain follows the classical Satoshi Paper with several adaptations to runs in private private way.
 
 The blockchain receives the transactions with instructions of how to execute them, proofing it self when our outside partner says it is valid.
 
